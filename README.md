@@ -2,3 +2,4 @@
 ### Language list
 - Golang
 - php
+- typescript
